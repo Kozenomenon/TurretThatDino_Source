@@ -45,7 +45,7 @@ OverrideDinoPaths=
 AutoDiscoverVariants=False
 ```
 **DebugMode** <br> 
-Default is False. Set to True for logging in live game. 
+Default is False. Set to True for logging in live game. <br>
 **InfoLog** <br>
 Default is False. Set to True if you would like to see some logging output in the server game log as to the functioning of the mod. It will output what dino classes are being edited for turret targeting. This occurs during game/server start. All InfoLog lines will start with [TurretThatDino] _(so you can search for them easily)_. <br>
 **AddDinoPaths** <br>
