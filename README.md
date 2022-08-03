@@ -21,7 +21,12 @@
  
 ## Dev Notes 
  - The entire mod is basically a singleton actor: `/Mods/TurretThatDino/Data/TTD_CCA` 
- - Its a copy of `Template_CCA_Save` from my other open-source [ArkTemplates](https://github.com/Kozenomenon/ArkTemplates)
+ - Its a copy of `Template_CCA_Save` from my other open-source [ArkTemplates](https://github.com/Kozenomenon/ArkTemplates) 
+ - INI Loaded at: `ConstructionScript` -> `LoadSettings` 
+ - Dino Classes loaded at: `BeginPlay` -> `DelayedInit` -> `LoadDinoClasses` 
+ - Edits Dino CDOs at: `BeginPlay` -> `DelayedInit` -> `EditDinoCDOs` 
+ - Edits Existing Dinos at: `BeginPlay` -> `DelayedInit` -> `EditExistingDinos` 
+ - For PIE & Live SinglePlayer, `EndPlay` reverts edits to dino CDOs 
  
 ## INI Settings
 ```ini
