@@ -1,0 +1,64 @@
+[h1]MOD ID: 2591969003[/h1]
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
+
+[img]https://i.imgur.com/bkimvCc.png[/img]
+Simple, stackable (green) mod - No Remaps!
+Does not include any custom dinos. 
+Does not include any custom items or structures. 
+
+[b]What Does It Do?[/b]
+This mod makes Noglins and Cnidaria targetable by -all- turrets. 
+[i]Vanilla variants will also be affected by default.[/i]
+That's it. 
+Your turrets will see them and they will shoot them. 
+Auto-Turrets, Heavy Turrets, Plant X Turrets, Modded Turrets. 
+If its a turret, it will work. 
+
+[i]NOTE: Generally, turrets need to be underwater in order to target dinos that are underwater- such as Cnidaria.[/i]
+
+[img]https://i.imgur.com/Gr7Jx6U.png[/img]
+[b]But Koz- what about my modded Noglin or Cnidaria???[/b]
+I included config settings for you folks using custom dino mods. 
+You can put their spawn paths in the mod settings and it will work for them too. 
+See details on that here: [url=https://steamcommunity.com/workshop/filedetails/discussion/2591969003/3041607080049680669/]Config Settings[/url]
+
+There are also custom [url=https://steamcommunity.com/workshop/filedetails/discussion/2591969003/3041607080052505284/]Admin Commands[/url].
+
+[img]https://i.imgur.com/54BYyxi.png[/img]
+Modders: I have made this mod available as open-source on my GitHub. 
+[i]Image is link to the repo.[/i]
+[url=https://github.com/Kozenomenon/TurretThatDino_Source][img]https://i.imgur.com/Nda9Vri.png[/img][/url]
+
+[img]https://i.imgur.com/t3i1Xks.png[/img]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1931415003]Best Eggs![/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1910733780]Boss Wipe Recovery[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2388946017]ColStax V2 - Stacks / Unlocks / QoL[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1898759575]Craft Station Edit[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2128782723]Mindwipe My Dino[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1963942404]Pandora's Box[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1496720667]Powerful Plant X[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2372208240]QuikHax InstaPreggers[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1957185915]Revive My Dino[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2221733141]Server Benchmark[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2505754047]Show Me Whales[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2202550947]Simple Ban[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1961542614]Upgrade My Dino[/url]
+[/list]
+
+[img]https://i.imgur.com/xJM6D9q.png[/img]
+Join me on the ᑎOᑌ Modding Discord to get notified of updates and/or get help for my mods.
+[url=https://discord.gg/FmWBgQV][img]https://i.imgur.com/YIYmqrn.png[/img][/url]
+
+[img]https://i.imgur.com/NdYnoLw.png[/img]
+Not expected, but appreciated!
+
+[url=https://www.patreon.com/NoUModding][img]http://i.imgur.com/sW2ar7K.png[/img][/url] 
+
+[url=https://paypal.me/noumodding][img]https://i.imgur.com/TrsXcCZ.png[/img][/url]
+
+[img]https://i.imgur.com/FXLcmHc.png[/img]
+[url=https://creativecommons.org/licenses/by-nc/4.0/legalcode]This mod/code/work is protected by the Attribution-NonCommercial 4.0 International Creative Commons License.[/url]
+
+[i]Search meta tags[/i]
+Noglin Cnidaria Turret NOU Modding

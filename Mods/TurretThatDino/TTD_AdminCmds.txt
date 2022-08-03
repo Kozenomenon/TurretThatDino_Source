@@ -1,0 +1,12 @@
+Admin commands can be entered via console or RCON. 
+If using RCON omit the 'admincheat' prefix. RCON outputs to logs. 
+
+[b]Dinos[/b]
+[code]admincheat scriptcommand ttd dinos[/code]
+This will print out what dinos are affected by the mod. By default specifies class names. To output full paths include the argument 'path': 
+[code]admincheat scriptcommand ttd dinos paths[/code]
+
+[b]FindVariants[/b]
+[code]admincheat scriptcommand ttd findvariants[/code]
+This will force the mod to attempt discovery of modded variants. By default scans dinos in the world. To instead do a class scan (which takes longer, will hang server), include the argument 'classes': 
+[code]admincheat scriptcommand ttd findvariants classes[/code]
