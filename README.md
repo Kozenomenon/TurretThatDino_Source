@@ -34,6 +34,7 @@
    - `DebugMode=True` 
    - `InfoLog=True` 
    - `AutoDiscoverVariants=True` 
+ - Admin Commands come in via: `Event Graph` -> `BindGameModeEvents` -> `HandleAdminCmd` 
  
 ## INI Settings
 ```ini
