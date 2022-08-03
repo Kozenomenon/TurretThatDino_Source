@@ -27,15 +27,24 @@
  - Edits Dino CDOs at: `BeginPlay` -> `DelayedInit` -> `EditDinoCDOs` 
  - Edits Existing Dinos at: `BeginPlay` -> `DelayedInit` -> `EditExistingDinos` 
  - For PIE & Live SinglePlayer, `EndPlay` reverts edits to dino CDOs 
+ - Log output works in PIE and Live game. 
+   - In live, needs `DebugMode=True` & launch args ` -log -servergamelog` 
+ - In PIE, some settings have different defaults. 
+   - `DebugMode=True` 
+   - `InfoLog=True` 
+   - `AutoDiscoverVariants=True` 
  
 ## INI Settings
 ```ini
 [TurretThatDino]
+DebugMode=False
 InfoLog=False
 AddDinoPaths=
 OverrideDinoPaths=
 AutoDiscoverVariants=False
 ```
+**DebugMode** <br> 
+Default is False. Set to True for logging in live game. 
 **InfoLog** <br>
 Default is False. Set to True if you would like to see some logging output in the server game log as to the functioning of the mod. It will output what dino classes are being edited for turret targeting. This occurs during game/server start. All InfoLog lines will start with [TurretThatDino] _(so you can search for them easily)_. <br>
 **AddDinoPaths** <br>
