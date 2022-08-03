@@ -1,4 +1,4 @@
-![Turret That Dino](https://github.com/Kozenomenon/TurretThatDino_Source/blob/main/Icons/TTD_Repo_Icon.png?raw=true)
+![Turret That Dino](https://github.com/Kozenomenon/TurretThatDino_Source/blob/main/Icon/TTD_Repo_Icon.png?raw=true)
 # Turret That Dino
  Simple mod for Ark: Surival Evolved that makes turrets shoot Cnidaria & Noglins. Has config to include modded dinos & some custom admin commands.
  
