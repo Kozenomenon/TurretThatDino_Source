@@ -40,4 +40,18 @@ Expected value is a comma-delimited list of dino spawn paths. Not class names- y
 For example, Noglin's spawn path is: <br>
 `/Game/Genesis2/Dinos/BrainSlug/BrainSlug_Character_BP.BrainSlug_Character_BP` <br>
 **AutoDiscoverVariants** <br>
-Default is False. Setting to True will cause a longer server start up time! Mod will search for modded variants for Cnidaria and Noglins. Will only find modded dinos if they are setup as child class of the vanilla. If they are done as copies then you will need to add their paths using one of the two settings above. <br>
+Default is False. Setting to True will cause a longer server start up time! Mod will search for modded variants for Cnidaria and Noglins. Will only find modded dinos if they are setup as child class of the vanilla. If they are done as copies then you will need to add their paths using one of the two settings above. <br> 
+
+## Admin Commands
+Admin commands can be entered via console or RCON. <br> 
+If using RCON omit the 'admincheat' prefix. RCON outputs to logs. 
+
+**Dinos** <br> 
+`admincheat scriptcommand ttd dinos` <br> 
+This will print out what dinos are affected by the mod. By default specifies class names. To output full paths include the argument 'path': <br> 
+`admincheat scriptcommand ttd dinos paths` 
+
+**FindVariants** <br> 
+`admincheat scriptcommand ttd findvariants` <br> 
+This will force the mod to attempt discovery of modded variants. By default scans dinos in the world. To instead do a class scan (which takes longer, will hang server), include the argument 'classes': <br> 
+`admincheat scriptcommand ttd findvariants classes`
