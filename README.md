@@ -28,16 +28,16 @@ OverrideDinoPaths=
 AutoDiscoverVariants=False
 ```
 **InfoLog** <br>
-Default is False. Set to True if you would like to see some logging output in the server game log as to the functioning of the mod. It will output what dino classes are being edited for turret targeting. This occurs during game/server start. All InfoLog lines will start with [TurretThatDino] _(so you can search for them easily)_. 
+Default is False. Set to True if you would like to see some logging output in the server game log as to the functioning of the mod. It will output what dino classes are being edited for turret targeting. This occurs during game/server start. All InfoLog lines will start with [TurretThatDino] _(so you can search for them easily)_. <br>
 **AddDinoPaths** <br>
 Default is blank. This setting is for adding more dinos to be affected by this mod. Dinos listed here will be additive to the default (Noglin and Cnidaria + vanilla variants). 
 Expected value is a comma-delimited list of dino spawn paths. Not class names- you need to put the entire spawn path for this to work. <br>
 For example, Cnidaria's spawn path is: <br>
-`/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP.Cnidaria_Character_BP` 
+`/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP.Cnidaria_Character_BP` <br>
 **OverrideDinoPaths** <br>
 Default is blank. This setting is for replacing the list of dinos to be affected by this mod. Use this setting if you don't want it to affect Cnidaria and/or Noglins (or a variant), and want to explicitly define the list yourself. 
 Expected value is a comma-delimited list of dino spawn paths. Not class names- you need to put the entire spawn path for this to work. <br>
 For example, Noglin's spawn path is: <br>
-`/Game/Genesis2/Dinos/BrainSlug/BrainSlug_Character_BP.BrainSlug_Character_BP` 
+`/Game/Genesis2/Dinos/BrainSlug/BrainSlug_Character_BP.BrainSlug_Character_BP` <br>
 **AutoDiscoverVariants** <br>
-Default is False. Setting to True will cause a longer server start up time! Mod will search for modded variants for Cnidaria and Noglins. Will only find modded dinos if they are setup as child class of the vanilla. If they are done as copies then you will need to add their paths using one of the two settings above.
+Default is False. Setting to True will cause a longer server start up time! Mod will search for modded variants for Cnidaria and Noglins. Will only find modded dinos if they are setup as child class of the vanilla. If they are done as copies then you will need to add their paths using one of the two settings above. <br>
