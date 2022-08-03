@@ -19,6 +19,10 @@
  
  _Note: Yes, ModBase lives outside Mods folder._ 
  
+## Dev Notes 
+ - The entire mod is basically a singleton actor: `/Mods/TurretThatDino/Data/TTD_CCA` 
+ - Its a copy of `Template_CCA_Save` from my other open-source [ArkTemplates](https://github.com/Kozenomenon/ArkTemplates)
+ 
 ## INI Settings
 ```ini
 [TurretThatDino]
