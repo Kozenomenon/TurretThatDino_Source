@@ -29,6 +29,7 @@
  - For PIE & Live SinglePlayer, `EndPlay` reverts edits to dino CDOs 
  - Log output works in PIE and Live game. 
    - In live, needs `DebugMode=True` & launch args ` -log -servergamelog` 
+   - In PIE, open the `Output` located on the kit's `Window` menu 
  - In PIE, some settings have different defaults. 
    - `DebugMode=True` 
    - `InfoLog=True` 
